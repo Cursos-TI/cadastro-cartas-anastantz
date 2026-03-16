@@ -9,11 +9,15 @@ int main() {
     char codigo1[4], nome1[50];
     int populacao1, ptsTuristicos1;
     float pib1, area1;
+		//Declarando variáveis para novas propriedades 
+			float densidade1, pibPerCapita1;
 
     // Declarando variáveis da carta 2
     char codigo2[4], nome2[50];
     int populacao2, ptsTuristicos2;
     float pib2, area2;
+		//Declarando variáveis para novas propriedades 
+			float densidade2, pibPerCapita2;
 
     // Tela de boas vindas
     printf("=====* SUPER TRUNFO: PAÍSES - CADASTRO DE CARTAS DE CIDADES *=====\n");
